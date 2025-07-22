@@ -18,7 +18,8 @@ Todo o processo de análise — desde a preparação dos dados até a comunicaç
 
 O script em R utilizado para processar e visualizar os dados está disponível aqui:
 
-📄 [`script_final.R`](./script_final.R)
+📄 [`script.R`](./script.R)
+
 
 ---
 
