@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como estudo de caso final do curso **Google Data Analytics Professional Certificate**, representando meu trabalho de conclusão de curso (TCC).
 
-📎 [Clique aqui para visualizar a apresentação completa em PDF](./apresentacao/TCC Analise de dados.pdf)
+📎 [Clique aqui para visualizar a apresentação completa em PDF](https://github.com/priscilarb/portfolio-dados-priscila/blob/main/projeto-cyclistic/TCC%20An%C3%A1lise%20de%20dados.pdf)
 
 ---
 
